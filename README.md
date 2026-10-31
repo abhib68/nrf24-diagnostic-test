@@ -1,4 +1,4 @@
-# nRF24L01 Diagnosti Test for Arduino
+ nRF24L01 Diagnosti Test for Arduino
 
 A quick diagnostic sketch for Arduino to verify the SPI communication and register configurations of the nRF24L01 transceiver module.
 
